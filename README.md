@@ -10,7 +10,7 @@
 ### :man_technologist: About Me :
 
 - 🔭 I’m a passionate MERN stack developer with a focus on front-end development using React.js and Next.js.
-- 🌱 I’m currently looking for a good opportunity to kick-start my career and help me grow and developer as a front-end developer.
+- 🌱 I’m currently looking for a good opportunity to kick-start my career and help me grow and improve as a front-end developer.
 
   ***
 
