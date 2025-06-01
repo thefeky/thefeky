@@ -9,8 +9,8 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m a passionate MERN stack developer with a focus on front-end development using React.js and Next.js.
-- 🌱 I’m currently looking for a good opportunity to kick-start my career and help me grow and improve as a front-end developer.
+- 🔭 I’m a passionate Front-End Developer specialized in React.js, TypeScript and Tailwind CSS.
+- 🌱 I’m currently learning Angular while looking for a good opportunity to kick-start my career and help me grow as a developer.
 
   ***
 
@@ -20,11 +20,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/bootstrap-%23E0234E.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%232671E5.svg?style=for-the-badge&logo=git&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ---
