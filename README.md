@@ -9,8 +9,8 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m a passionate Front-End Developer specialized in React.js, TypeScript and Tailwind CSS.
-- 🌱 I’m currently learning Angular while looking for a good opportunity to kick-start my career and help me grow as a developer.
+- 🔭 I’m a passionate Front-End Developer specialized in React.js, Angular, TypeScript and Tailwind CSS.
+- 🌱 I’m currently enhancing my skills in Angular while looking for a good opportunity to kick-start my career and help me grow as a developer.
 
   ***
 
